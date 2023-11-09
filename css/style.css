@@ -1,0 +1,241 @@
+header {
+    background-color: #d9d9d2;
+}
+.container {
+    max-width: 1100px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.header__list {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.header__list li {
+    padding: 16px 0;
+}
+.header__list a {
+    text-decoration: none;
+    color: black;
+}
+.head .container {
+    display: flex;
+}
+.beauty {
+    padding-top: 20px;
+    width: 50%;
+    padding-bottom: 15px;
+}
+.number p {
+    padding-top: 40px;
+}
+.number {
+    width: 50%;
+    text-align: right;
+}
+.number input {
+    width: 150px;
+    height: 30px;
+    border-color: #F13C6E;
+    cursor: pointer;
+    border-radius: 11px;
+    background-color: white;
+    margin-left: 30px;
+}
+.navigation__list {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.navigation__list li {
+    padding: 16px 0;
+}
+.navigation__list a {
+    text-decoration: none;
+    color: black;
+}
+.chair {
+    background-image: url(../assets/images/chair.png);
+    height: 600px;
+}
+.description input {
+    width: 150px;
+    height: 30px;
+    border-color: white;
+    cursor: pointer;
+    border-radius: 11px;
+    background-color: transparent;
+    color: white;
+}
+.description {
+    color: white;
+    width: 408px;
+    height: 219px;
+    padding-left: 160px;
+    padding-top: 200px;
+}
+.description h1 {
+    font-size: 40px;
+}
+.main__contant {
+    background-color: #d9d9d2;
+    padding-bottom: 50px;
+}
+.offers p {
+    padding-top: 20px;
+}
+.boxes {
+    margin-bottom: 30px;
+    display: flex;
+    gap: 30px;
+}
+.box {
+    background-color: #F13C6E;
+    text-align: center;
+}
+.box input {
+    color: black;
+    height:40px;
+    width: 100px;
+    border-color:#000080 #6A5ACD #8470FF #0000FF;
+    border-width:5px;
+    background: skyblue;
+    cursor: pointer;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+.box p {
+    margin-bottom: 10px;
+}
+.box img {
+    margin-bottom: 10px;
+}
+.box h3 {
+    margin-bottom: 10px;
+}
+.visits {
+    display: flex;
+    margin-top: 50px;
+    gap: 30px;
+}
+.mail {
+    width: 50%;
+    display: flex;
+    background-color: #F13C6E;
+    gap: 30px;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.map {
+    width: 50%;
+    gap: 30px;
+    display: flex;
+    background-color: #F13C6E;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+
+.mail h4 {
+    padding-top: 30px;
+    color: white;
+    font-size: 20px;
+}
+.mail p {
+    color: white;
+}
+.mail input {
+    color: #d9d9d2;
+    border-radius: 6px;
+    width: 200px;
+    height: 40px;
+}
+.picture {
+    padding-top: 30px;
+}
+
+.map p {
+    color: white;
+    padding-left: 30px;
+}
+.map h4 {
+    color: white;
+    padding-left: 30px;
+    padding-top: 30px;
+    font-size: 20px;
+}
+.map input {
+    color: white;
+    border-radius: 6px;
+    width: 200px;
+    height: 40px;
+    background-color: #F13C6E;
+    border-color:white white #ffffff #ffffff;
+    border-width:5px;
+    cursor: pointer;
+}
+.map form {
+    padding-left: 30px;
+}
+.popular {
+    margin-top: 50px;
+    display: flex;
+    gap: 30px;
+    margin-bottom: 50px;
+}
+.block {
+    width: 25%;
+}
+.popular__list a {
+    list-style-type: none;
+    color: darkgrey;
+    text-decoration: none;
+}
+.categories {
+    margin-bottom: 50px;
+}
+.block h4 {
+    padding-bottom: 15px;
+}
+.contacts_boxes {
+    display: flex;
+    gap: 30px;
+}
+.icons p img {
+    width: 25px;
+}
+.icons {
+    width: 50%;
+    display: flex;
+}
+.call {
+    width: 50%;
+    text-align: right;
+}
+.contacts input {
+    width: 150px;
+    height: 30px;
+    border-color: #F13C6E;
+    cursor: pointer;
+    border-radius: 11px;
+    background-color: white;
+    margin-left: 30px;
+}
+.contacts {
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: #d9d9d2;
+    height: 65px;
+    display: flex;
+}
+footer p {
+    color: darkgrey;
+    padding-top: 25px;
+    padding-left: 160px;
+}
+.privacy {
+    padding-left: 360px;
+}
